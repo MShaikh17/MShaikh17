@@ -1,4 +1,4 @@
-- I’m interested in fullstack development, with more of a focus on frontend.
+- I’m interested in fullstack development, with more of a focus on Back-end.
 - 🌱 I’m currently learning Node.js and C++
 - 📫 How to reach me: muaazshaikh25@gmail.com
 
