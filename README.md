@@ -1,5 +1,6 @@
+- Python | C++ | HTML | CSS | JavaScript
 - I’m interested in fullstack development, with more of a focus on Back-end.
-- 🌱 I’m currently learning Node.js and C++
+- 🌱 I’m currently learning Node.js and Angular
 - 📫 How to reach me: muaazshaikh25@gmail.com
 
 <!---
